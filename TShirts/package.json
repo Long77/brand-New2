@@ -1,0 +1,15 @@
+{
+  "name": "tshirts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "postcss-cli": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "postcss -o style.css style.scss"
+  },
+  "author": "",
+  "license": "ISC"
+}
